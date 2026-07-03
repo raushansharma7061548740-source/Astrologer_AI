@@ -1,7 +1,8 @@
 # Vedaz AI - LLM Fine-Tuning Assessment
 
 ## Overview
-This project demonstrates supervised fine-tuning of the Qwen2.5-0.5B-Instruct model using PEFT (LoRA) and TRL's SFTTrainer on a Vedic astrology conversational dataset.
+This project demonstrates supervised fine-tuning of the Qwen2.5-0.5B-Instruct model using PEFT (LoRA) and TRL's SFTTrainer on a Vedic astrology conversational dataset.in this project i use the qween 2.5 llm and add my trainning data in llm and make new model using LORA
+
 
 ## Features
 - Qwen2.5-0.5B-Instruct
